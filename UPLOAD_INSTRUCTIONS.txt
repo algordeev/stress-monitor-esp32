@@ -1,8 +1,0 @@
-To upload this repository:
-1. Unzip the archive.
-2. Open https://github.com/algordeev/stress-monitor-esp32
-3. Choose Add file > Upload files.
-4. Drag the CONTENTS of the stress-monitor-esp32 folder (including firmware/ and docs/), not the ZIP file itself.
-5. GitHub's web uploader may not display hidden .gitignore; add it through Add file > Create new file if necessary.
-6. Existing README.md will be replaced/updated if GitHub accepts the upload; if GitHub reports a conflict, edit the README via the pencil icon and paste the version from the archive.
-7. Commit changes.
