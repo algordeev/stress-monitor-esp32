@@ -76,4 +76,10 @@ This is a non-medical experimental device. **Do not connect skin-contact GSR/EDA
 - Wiring: [`docs/wiring.md`](docs/wiring.md)
 - Development notes: [`docs/development.md`](docs/development.md)
 
-No software license has been selected yet; do not assume permission for redistribution or modification beyond applicable law.
+## Copyright
+
+© 2026 Aleksandr Gordeev. All rights reserved.
+
+This project is publicly available for viewing. No permission is granted to use, modify, or redistribute the source code without prior authorization, except as permitted by applicable law or GitHub's Terms of Service.
+
+For licensing inquiries, please contact the author.
